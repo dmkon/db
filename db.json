@@ -1,25 +1,25 @@
 {
   "blogs": [
     {
-        "pk":"1",
+        "id":"1",
         "title":"Title 1",
         "body":"Body 1",
         "image":"https://www.nretnil.com/avatar/LawrenceEzekielAmos.png"
     },
     {
-        "pk":"2",
+        "id":"2",
         "title":"Title 2",
         "body":"Body 2",
         "image":"https://www.svgrepo.com/show/167334/man.svg"
     },
     {
-        "pk":"3",
+        "id":"3",
         "title":"Title 3",
         "body":"Body 3",
         "image":"https://www.svgrepo.com/show/298080/man-hair-beauty-salon.svg"
     },
     {
-        "pk":"4",
+        "id":"4",
         "title":"Title 4",
         "body":"Body 4",
         "image":""
@@ -28,6 +28,7 @@
 
 "users": [
     {
+        "id": "1",
         "email": "test@gmail.com",
         "username": "test",
         "image": "https://www.svgrepo.com/show/302844/dog-breed.svg"
