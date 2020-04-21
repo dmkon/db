@@ -1,5 +1,5 @@
 {
-  blogs: [
+  "blogs": [
     {
         "pk":"1",
         "title":"Title 1",
@@ -26,7 +26,7 @@
     }
 ],
 
-users: [
+"users": [
     {
         "email": "test@gmail.com",
         "username": "test",
